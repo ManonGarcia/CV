@@ -1,0 +1,118 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Manon Garcia",
+    "label": "Développeuse web",
+    "image": "",
+    "email": "garciamanon9@gmail.com",
+    "phone": "06 87 35 54 56",
+    "url": "https://github.com/ManonGarcia",
+    "summary": "Développeuse Junior suite à une reconversion professionnelle, je me suis passionnée pour la programmation. Je possède une solide base de connaissances en développement web côté back (Nodejs, Express, Postgres, MongoDB) et côté front (Reactjs, bootstrap). Curieuse, motivée et toujours prête à apprendre de nouvelles technologies. Mon objectif principal est de continuer à développer mes compétences techniques tout en apportant une valeur ajoutée à l'équipe et à l'entreprise pour laquelle je travaille.",
+    "location": {
+      "address": "500 rue de beaumont",
+      "postalCode": "37210",
+      "city": "Noizay"
+    }
+  },
+  "work": [
+    {
+      "name": "Repartim",
+      "location": "Saint-Pierre-des-Corps - 37700",
+      "description": "Repartim est une entreprise spécialisée dans les travaux de rénovation et le dépannage.",
+      "position": "Conseillère clientèle sénior",
+      "url": "https://www.repartim.fr/",
+      "startDate": "2017-05",
+      "endDate": "2021-06",
+      "summary": "Mon travail en tant que conseillère clientèle était de répondre aux attentes et aux questions des clients, et de leur proposer une solution adaptée.",
+      "highlights": [
+        "Analyser et comprendre le besoin du client.",
+        "Etablir un diagnostic.",
+        "Faire appel à des collaborateurs internes ou externes si besoin.",
+        "Trouver une solution adaptée au besoin."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "OpenClassRooms",
+      "url": "https://openclassrooms.com/fr/",
+      "area": "Développeur intégrateur web",
+      "studyType": "Bachelor",
+      "startDate": "2022-07",
+      "endDate": "2023-03",
+      "courses": [
+        "HTML - CSS - SASS",
+        "SEO",
+        "Javascript",
+        "Node.js - Express - MongoDB",
+        "React"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Junior",
+      "keywords": [
+        "HTML-CSS-SASS",
+        "Node.js",
+        "Javascript",
+        "Express",
+        "React",
+        "MongoDB - Mongoose",
+        "Postgres - Sequelize"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Langue native"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Intermédiaire (B1)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Loisirs",
+      "keywords": [
+        "Lecture, écriture",
+        "Musique, chant, danse",
+        "Cuisine"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "La Pêche",
+      "description": "Un site sur la pêche, regroupant les meilleurs lieux du secteur et une section pour personnaliser sa checklist à soi pour partir à l'aventure. Créé avec : React, Postgres, Sequelize",
+      "highlights": [
+        "Évaluer ses besoins et ses objectifs. Rédiger un cahier des charges.",
+        "Définir une structure pour son site web. Créer les maquettes.",
+        "Intégrer les pages du site.",
+        "Le développement back-end, adjoindre aux pages HTML statiques une base de données."
+      ],
+      "keywords": [
+        "React",
+        "Postgres",
+        "Sequelize"
+      ],
+      "startDate": "2023-03",
+      "endDate": "2023-09",
+      "url": "",
+      "roles": [
+        "Designer",
+        "Développeur intégrateur web"
+      ],
+      "entity": "La Pêche",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
