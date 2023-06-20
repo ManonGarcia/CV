@@ -7,13 +7,18 @@
     "email": "garciamanon9@gmail.com",
     "phone": "06 87 35 54 56",
     "url": "https://github.com/ManonGarcia",
-    "url": "https://www.linkedin.com/in/manon-garcia-b398b0238/",
     "summary": "Développeuse Junior suite à une reconversion professionnelle, je me suis passionnée pour la programmation. Je possède déjà des connaissances en développement web côté back (Nodejs, Express, Postgres, MongoDB) et côté front (Reactjs, bootstrap). Curieuse, motivée et toujours prête à apprendre de nouvelles technologies, je souhaite maintenant me lancer dans une seconde formation 'Développeur d'application - Java', cette fois-ci en alternance. Mon objectif principal est de continuer à développer mes compétences techniques tout en apportant une valeur ajoutée à l'équipe et à l'entreprise pour laquelle je travaille.",
     "location": {
       "address": "500 rue de beaumont",
       "postalCode": "37210",
       "city": "Noizay"
-    }
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "url": "https://www.linkedin.com/in/manon-garcia-b398b0238/"
+      }
+    ]
   },
   "work": [
     {
